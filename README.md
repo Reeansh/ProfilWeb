@@ -1,2 +1,2 @@
-# SubmissionWeb
+# ProfilWeb
 Web Development Basic - Dicoding Bangkit
